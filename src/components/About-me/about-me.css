@@ -1,0 +1,20 @@
+.aboutMe-body {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+}
+.kaio-imagem {
+  width: 400px;
+  height: 450px;
+  border-radius: 10px;
+  margin-right: 100px;
+}
+.aboutMe-text {
+  width: 500px;
+}
+.aboutMe-h1 {
+  font-size: 40px;
+}
+.aboutMe-paragraph {
+  font-size: 24px;
+}
